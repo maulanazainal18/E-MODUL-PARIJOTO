@@ -1,0 +1,6 @@
+{
+  "name": "Parijoto Learning",
+  "description": "Digital Biology Learning Platform berbasis Problem Based Learning dan Etnosains Parijoto (Medinilla speciosa) untuk SMA/MA Kelas X Fase E.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

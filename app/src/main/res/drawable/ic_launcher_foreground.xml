@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Arching botanical stem -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M34,42 Q54,28 70,38"
+        android:strokeWidth="2.8"
+        android:strokeColor="#D3B36A"
+        android:strokeLineCap="round" />
+    <!-- Left Parijoto leaf -->
+    <path
+        android:fillColor="#F5F0E5"
+        android:pathData="M36,40 C26,34 26,22 39,24 C45,25 47,33 36,40 Z" />
+    <!-- Right Parijoto leaf -->
+    <path
+        android:fillColor="#A7BD91"
+        android:pathData="M54,32 C56,22 72,22 72,33 C72,40 62,40 54,32 Z" />
+    <!-- Panicle stem -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,34 L54,50 M54,44 L44,53 M54,44 L64,53 M54,50 L48,64 M54,50 L60,64"
+        android:strokeWidth="2.2"
+        android:strokeColor="#D3B36A"
+        android:strokeLineCap="round" />
+    <!-- Parijoto berry cluster (characteristic Medinilla speciosa berries) -->
+    <path
+        android:fillColor="#754267"
+        android:pathData="M43,56 a5.2,5.2 0 1,0 10.4,0 a5.2,5.2 0 1,0 -10.4,0" />
+    <path
+        android:fillColor="#8C4E7B"
+        android:pathData="M54.6,56 a5.2,5.2 0 1,0 10.4,0 a5.2,5.2 0 1,0 -10.4,0" />
+    <path
+        android:fillColor="#754267"
+        android:pathData="M48.8,65 a5.6,5.6 0 1,0 11.2,0 a5.6,5.6 0 1,0 -11.2,0" />
+    <path
+        android:fillColor="#A15D8E"
+        android:pathData="M39,65 a4.4,4.4 0 1,0 8.8,0 a4.4,4.4 0 1,0 -8.8,0" />
+    <path
+        android:fillColor="#A15D8E"
+        android:pathData="M60.2,65 a4.4,4.4 0 1,0 8.8,0 a4.4,4.4 0 1,0 -8.8,0" />
+    <path
+        android:fillColor="#5B2E4F"
+        android:pathData="M49.5,74.5 a4.5,4.5 0 1,0 9,0 a4.5,4.5 0 1,0 -9,0" />
+    <!-- Subtle berry highlights -->
+    <path
+        android:fillColor="#F5F0E5"
+        android:pathData="M46.5,54 a1.4,1.4 0 1,0 2.8,0 a1.4,1.4 0 1,0 -2.8,0" />
+    <path
+        android:fillColor="#F5F0E5"
+        android:pathData="M58.2,54 a1.4,1.4 0 1,0 2.8,0 a1.4,1.4 0 1,0 -2.8,0" />
+    <path
+        android:fillColor="#F5F0E5"
+        android:pathData="M52.5,63 a1.5,1.5 0 1,0 3,0 a1.5,1.5 0 1,0 -3,0" />
+</vector>
